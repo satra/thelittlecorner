@@ -68,3 +68,5 @@ css:
 site: html
 	./copy_trees.py
 
+github: html
+	rsync -auv _build/html/. /software/nipy-repo/satra.github.com/.
