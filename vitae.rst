@@ -185,6 +185,7 @@ Talks
          -	NITRC Grantee meeting, San Francisco, CA (June, 2009)
          -	Brigham and Women’s Hospital (December, 2009)
          -	BrainMap, MGH/MIT (February, 2010)
+	 -	Scientific Python in India (December 2010)
 
 “Using high-resolution fMRI to identify individual-specific speech motor regions”
        -	Surgical planning laboratory, Brigham and Women’s Hospital (February, 2010)
