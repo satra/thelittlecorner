@@ -4,7 +4,7 @@
  Curriculum vitae
 ==================
 
-`Download PDF <_static/SatrajitGhosh_CV_101028.pdf>`_
+`Download PDF <_static/Ghosh_CV.pdf>`_
 
 Professional experience
 -----------------------
@@ -124,10 +124,12 @@ Papers in Refereed Journals and Book Chapters
 7.	**Ghosh, S.S.**, Tourville, J.A. and Guenther, F.H. (2008) A neuroimaging study of premotor lateralization and cerebellar involvement in the production of phonemes and syllables. Journal of Speech, Language and Hearing Research. 51(5):1183-202.
 8.      Klein, A., **Ghosh, S.S.**, Avants, B., Yeo, B.T.T, Fischl, B., Ardekani, B., Gee, J.C., Mann, J.J., Parsey, R.V. (2010). Evaluation of volume-based and surface-based brain image registration methods. Neuroimage.
 9.      **Ghosh, S.S.**, Kakunoori, S., Augustinack, J., Nieto-Castanon, A., Kovelman, I., Gaab, N., Christodoulou, J.A., Triantafyllou, C., Gabrieli, J.D., Fischl, B. (2010). Evaluating the Validity of Volume-Based and Surface-Based Brain Image Registration for Developmental Cognitive Neuroscience Studies in Children 4-to-11 Years of Age. Neuroimage.
-10.     Cai, S., **Ghosh, S**, Guenther, F., Perkell, J. (In press). Adaptive Auditory Feedback Control of the Production of Formant Trajectories in the Mandarin Triphthong /iau/ and its Pattern of Generalization. Journal of the Acoustical Society of America.
-11.     Hinds, O., **Ghosh, S.**, Thompson, T.W., Yoo, J.J., Whitfield-Gabrieli, S., Triantafyllou, C., Gabrieli, J.D. (In press) Computing moment to moment BOLD activation for real-time neurofeedback. Neuroimage
-12.     **Ghosh, S.,** Matthies, M.,  Maas, E., Hanson, A., Tiede, M., Menard, L., Guenther, F., Lane, H., Perkell, J. (In press) An investigation of the relation between sibilant production and somatosensory and auditory acuity. Journal of the Acoustical Society of America
-13.     Brunner, J., **Ghosh, S.**, Hoole, P., Matthies, M., Tiede, M., & Perkell, J. (In press) The influence of auditory acuity on acoustic variability and the use of motor equivalence during adaptation to a perturbation. Journal of Speech, Language and Hearing Research.
+10.     Cai, S., **Ghosh, S**, Guenther, F., Perkell, J. (2010). Adaptive Auditory Feedback Control of the Production of Formant Trajectories in the Mandarin Triphthong /iau/ and its Pattern of Generalization. Journal of the Acoustical Society of America.
+11.     **Ghosh, S.,** Matthies, M.,  Maas, E., Hanson, A., Tiede, M., Menard, L., Guenther, F., Lane, H., Perkell, J. (2010) An investigation of the relation between sibilant production and somatosensory and auditory acuity. Journal of the Acoustical Society of America
+12.     Brunner, J., **Ghosh, S.**, Hoole, P., Matthies, M., Tiede, M., & Perkell, J. (2010) The influence of auditory acuity on acoustic variability and the use of motor equivalence during adaptation to a perturbation. Journal of Speech, Language and Hearing Research.
+13.     Hinds, O., **Ghosh, S.**, Thompson, T.W., Yoo, J.J., Whitfield-Gabrieli, S., Triantafyllou, C., Gabrieli, J.D. (2011) Computing moment to moment BOLD activation for real-time neurofeedback. Neuroimage
+14.	Golfinopoulos, E., Tourville, J.A., Bohland, J.W., **Ghosh, S.S.**, Nieto-Castanon, A., Guenther, F.H. (In press) fMRI investigation of unexpected somatosensory feedback perturbation during speech, NeuroImage. DOI: 10.1016/j.neuroimage.2010.12.065.
+
 
 Proceedings in Refereed Conferences
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
