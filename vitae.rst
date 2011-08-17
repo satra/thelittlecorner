@@ -17,8 +17,9 @@ Professional experience
                    | Cambridge, MA, USA
 
    2007 -          | Research Scientist
+   		   | McGovern Institute for Brain Research (2011-)
                    | Speech Communication Group 
-                   | Research Laboratory of Electronics
+                   | Research Laboratory of Electronics (2007-2011)
                    | Massachusetts Institute of Technology
                    | Cambridge, MA, USA
 
@@ -131,7 +132,7 @@ Papers in Refereed Journals and Book Chapters
 14.	Golfinopoulos, E., Tourville, J.A., Bohland, J.W., Ghosh, S.S., Nieto-Castanon, A., Guenther, F.H. (2011) fMRI investigation of unexpected somatosensory feedback perturbation during speech. Neuroimage. 55(3):1324-38. PMCID: PMC3065208
 15.	Silver, A.L., Nimkin, K., Ashland, J.E., Ghosh, S.S., Van der Kouwe, A.J., Brigger, M.T., Hartnick, C.J. (2011) Cine magnetic resonance imaging with simultaneous audio to evaluate pediatric velopharyngeal insufficiency. Arch Otolaryngol Head Neck Surg. 137(3):258-63.
 16.	Brunner, J., Ghosh, S., Hoole, P., Matthies, M., Tiede, M., Perkell, J. (2011) The influence of auditory acuity on acoustic variability and the use of motor equivalence during adaptation to a perturbation. J Speech Lang Hear Res. 54(3):727-39. PMID: 20966388.
-
+17.	Gorgolewski, K., Burns, C.D., Madison, C., Clark, D., Halchenko, Y.O., Waskom, M.L., Ghosh, S.S. (In press) Nipype: A flexible, lightweight and extensible neuroimaging data processing framework. Frontiers in Neuroinformatics.
 
 Papers in Refereed Proceedings
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -164,6 +165,8 @@ Refereed abstracts
 15.	Ghosh, S.S., Kovelman, I., Lymberis, J., Gabrieli, J.D. (2009) Incorporating hemodynamic response functions to improve analysis models for sparse-acquisition experiments, NeuroImage, Volume 47, Supplement 1, Organization for Human Brain Mapping 2009 Annual Meeting.
 16.	Ghosh, S., Burns, C., Clark, D., Gorgolewski, K., Halchenko, Y., Madison, C., Tungaraza R., Millman J. ( 2010). Nipype: Opensource platform for unified and replicable interaction with existing neuroimaging tools. 16th Annual Meeting of the Organization for Human Brain Mapping
 17.	Ghosh, S., Granger, B., Perez, F. (2010). Distributed Neuroimaging Analysis with Nipype and IPython. 16th Annual Meeting of the Organization for Human Brain Mapping.
+18.	Chai, X., Ofen, N., Gutierrez, E., Ghosh, S., Gabrieli, J. (2011) White matter maturation in prefrontal cortex contributes to the development of declarative memory. 17th Annual Meeting of the Organization for Human Brain Mapping.
+19.	Doehrmann, O., Ghosh, S., Polli, F., Reynolds, G., Whitfield-Gabrieli, S., Hofmann, S., Pollack, M., Gabrieli, J. (2011) Predicting Treatment Response in Social Anxiety Disorder Using Magnetic Resonance Imaging. 17th Annual Meeting of the Organization for Human Brain Mapping.
 
 Other conferences
 ~~~~~~~~~~~~~~~~~
