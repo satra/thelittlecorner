@@ -2,12 +2,12 @@
  Welcome
 =========
 
-I am a research scientist at the `Research Laboratory of Electronics`__
+I am a research scientist at the `McGovern Institute for Brain Research`__
 at MIT_ and an instructor in the `Speech and Hearing Biosciences and
 Technology`__ program in the Harvard-MIT division of `Health Sciences
 and Technology`__.
 
-__ rle_
+__ mibr_
 __ shbt_
 __ hst_
 

@@ -16,10 +16,10 @@
 
 .. MIT
 .. _mit: http://www.mit.edu
+.. _mibr: http://mcgovern.mit.edu
 .. _rle: http://www.rle.mit.edu
 .. _hst: http://hst.mit.edu
 .. _shbt: http://web.mit.edu/shbt
-.. _mibr: http://web.mit.edu/mcgovern
 .. _mitmap: http://whereis.mit.edu/ 
 
 .. nipy
