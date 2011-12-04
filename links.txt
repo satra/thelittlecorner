@@ -19,7 +19,8 @@
 .. _mibr: http://mcgovern.mit.edu
 .. _rle: http://www.rle.mit.edu
 .. _hst: http://hst.mit.edu
-.. _shbt: http://web.mit.edu/shbt
+.. _dms: http://www.hms.harvard.edu/dms/
+.. _shbt: http://www.hms.harvard.edu/dms/shbt/
 .. _mitmap: http://whereis.mit.edu/ 
 
 .. nipy

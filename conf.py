@@ -46,7 +46,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u''
-copyright = u'2009, Satrajit S. Ghosh'
+copyright = u'2009-2011, Satrajit S. Ghosh'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
