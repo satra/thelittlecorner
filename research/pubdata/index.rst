@@ -1,13 +1,14 @@
 .. _pubdata:
 
-=========================
-Supplementary Information
-=========================
+=======================================
+Publications: Supplementary Information
+=======================================
+
 
 ANTS Pediatric template
 =======================
 
-Ghosh et al. (in press). Evaluating the Validity of Volume-Based and
+Ghosh et al. (2011). Evaluating the Validity of Volume-Based and
 Surface-Based Brain Image Registration for Developmental Cognitive
 Neuroscience Studies in Children 4-to-11 Years of Age. Neuroimage
 
