@@ -69,4 +69,7 @@ site: html
 	./copy_trees.py
 
 github: html
-	rsync -auv _build/html/. /software/nipy-repo/satra.github.com/.
+	rsync -auv /software/nipy-repo/satra.github.com/.git _build/html/.
+	rsync -auv /software/nipy-repo/satra.github.com/.nojekyll _build/html/.
+	rsync -auv /software/nipy-repo/satra.github.com/README _build/html/.
+	rsync -auv --delete _build/html/. /software/nipy-repo/satra.github.com/.

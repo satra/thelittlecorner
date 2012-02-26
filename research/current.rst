@@ -72,7 +72,6 @@ PI: Joseph S. Perkell
 Funded Source: NIH
 Collaborators: Shanqing Cai, Frank Guenther, Deryk Beal, Jason Tourville
 
-The aim of this project is to relate behavioral (both acoustic and kinematic) and neuroimaging observations from person who stutter (PWS) and 
- persons with fluent speech (PFS).
+The aim of this project is to relate behavioral (both acoustic and kinematic) and neuroimaging observations from person who stutter (PWS) and persons with fluent speech (PFS).
 
 .. include:: ../links.txt
